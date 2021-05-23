@@ -9,11 +9,11 @@
   </a>
 </p>
 
-- 👋 Hi, I’m @lizardpeter
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @lizardpeter.
+- 👀 I’m interested in gaming, coding, biology, neuroscience, ultra high refresh rates, and ultra low latency.
+- 🌱 I’m currently learning reverse engineering, C++, web development, and WebRTC integrations.
+- 💞️ I’m looking to collaborate on anything.
+- 📫 You can reach me on Discord at lizardpeter#7669.
 
 <!---
 lizardpeter/lizardpeter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
