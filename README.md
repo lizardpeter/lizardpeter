@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://discord.gg/cM488Ws">
+    <img src="https://github.com/lizardpeter/house-of-kublai/blob/master/images/HK%20BANNER.png" object-fit="cover">
+  </a>
+</p>
+
 - 👋 Hi, I’m @lizardpeter
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
