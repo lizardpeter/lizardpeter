@@ -1,3 +1,31 @@
+<style>
+  @media only screen and (max-width: 4000px) {
+    .emblem {
+
+        width: auto !important;
+        height: 11vh !important;
+    }
+    
+    .lizard {
+    
+        font-size: 13vh !important;
+    }
+  }
+  
+  @media only screen and (max-width: 1000px) {
+    .emblem {
+
+        width: auto !important;
+        height: 6vh !important;
+    }
+    
+    .lizard {
+    
+        font-size: 8vh !important;
+    }
+  }
+  </style>
+
 <p align="center">
   <a href="https://discord.gg/cM488Ws">
     <img src="https://github.com/lizardpeter/house-of-kublai/blob/master/images/HK%20BANNER.png" object-fit="cover">
