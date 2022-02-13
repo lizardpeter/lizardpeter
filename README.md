@@ -5,7 +5,7 @@
     <img height="99vw" width="auto" src="https://raw.githubusercontent.com/lizardpeter/house-of-kublai/master/images/1024.png" alt="HOK">
     <img height="99vw" width="auto" src="https://raw.githubusercontent.com/lizardpeter/house-of-kublai/master/Web/al3.png" alt="HOK">
     <img height="99vw" width="auto" src="https://raw.githubusercontent.com/lizardpeter/house-of-kublai/master/Web/Among%202.png" alt="HOK">
-    <img height="99vw" width="auto" src="https://emoji.gg/assets/emoji/2677-200-iq.gif" alt="HOK">
+    <img height="99vw" width="auto" src="https://raw.githubusercontent.com/lizardpeter/house-of-kublai/master/Web/Emoji-Blitz-Star-Wars-the-Mandalorian-single.png" alt="HOK">
   </a>
 </p>
 
