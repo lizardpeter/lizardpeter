@@ -10,7 +10,7 @@
 </p>
 
 - 👋 Hi, I’m @lizardpeter.
-- 👀 I’m interested in gaming, coding, biology, neuroscience, ultra high refresh rates, and ultra low latency.
+- 👀 I’m interested in gaming, coding, biology, ultra high refresh rates, and ultra low latency.
 - 🌱 I’m currently learning reverse engineering, C++, web development, and WebRTC integrations.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 You can reach me on Discord at lizardpeter#7669.
